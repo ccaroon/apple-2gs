@@ -1,27 +1,27 @@
 # Apple IIGS
 My collection of information and such for the Apple IIGS.
 
-## Bookmarks
+## Emulators
+* [GSPlus](https://apple2.gs/plus/)
+* [KeGS](http://kegs.sourceforge.net/)
+* [Sweet16](http://www.sheppyware.net/software-mac/sweet16/)
+* [GSPort](http://kegs.sourceforge.net/)
 
-### Emulators
-* GSPlus: https://apple2.gs/plus/
-* KeGS: http://kegs.sourceforge.net/
-* Sweet16: http://www.sheppyware.net/software-mac/sweet16/
-* GSPort: http://kegs.sourceforge.net/
-
-### Development
+## Development
 * https://apple2.gs/
 
-### Software
-* FTA: http://www.freetoolsassociation.com/
-* NinjaForce: http://www.ninjaforce.com/html/news.html
-* BrutalDeluxe: https://www.brutaldeluxe.fr/
-* SheppyWare: http://www.sheppyware.net/apple-ii-software/
-* Speccie: https://speccie.uk/software/
-* Marinetti: http://www.apple2.org/marinetti/
+## Software
+* [Apple2Online](https://apple2online.com/)
+* [FTA](http://www.freetoolsassociation.com/)
+* [NinjaForce](http://www.ninjaforce.com/html/news.html)
+* [BrutalDeluxe](https://www.brutaldeluxe.fr/)
+* [SheppyWare](http://www.sheppyware.net/apple-ii-software/)
+* [Speccie](https://speccie.uk/software/)
+* [Marinetti](http://www.apple2.org/marinetti/)
 
-### Hardware
-* A2Retro: http://a2retrosystems.com/
+## Hardware
+* [A2Retro](http://a2retrosystems.com/)
+* [Big Mess o' Wires](https://www.bigmessowires.com/shop/)
 
 ## Misc
-* NuLib (SHK/BXY for Linux): http://nulib.com/
+* [NuLib (SHK/BXY for Linux)](http://nulib.com/)

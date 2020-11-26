@@ -9,6 +9,12 @@ My collection of information and such for the Apple IIGS.
 
 ## Development
 * https://apple2.gs/
+* https://apple2.org.za/gswv/a2zine/faqs/csa2pfaq.html
+
+### Gno/ME
+* http://www.gno.org/gno/
+    - http://www.gno.org/gno/download.html
+    - http://www.gno.org/gno/refs.html#install
 
 ## Software
 * [Apple2Online](https://apple2online.com/)

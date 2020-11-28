@@ -1,0 +1,3 @@
+xsetroot -grey
+#exec /usr/bin/lxterminal
+exec /usr/bin/openbox

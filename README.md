@@ -24,6 +24,7 @@ My collection of information and such for the Apple IIGS.
 * [SheppyWare](http://www.sheppyware.net/apple-ii-software/)
 * [Speccie](https://speccie.uk/software/)
 * [Marinetti](http://www.apple2.org/marinetti/)
+* [GSWorldView](https://apple2.org.za/gswv/a2zine/Sel/index.html)
 
 ## Hardware
 * [A2Retro](http://a2retrosystems.com/)
@@ -31,3 +32,4 @@ My collection of information and such for the Apple IIGS.
 
 ## Misc
 * [NuLib (SHK/BXY for Linux)](http://nulib.com/)
+* [Apple 3.5" Drive Clean & Repair Video](https://www.youtube.com/watch?v=0pGhwtyFG2I&feature=emb_logo)

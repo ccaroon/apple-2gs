@@ -4,8 +4,10 @@ My collection of information and such for the Apple IIGS.
 ## Emulators
 * [GSPlus](https://apple2.gs/plus/)
 * [KeGS](http://kegs.sourceforge.net/)
-* [Sweet16](http://www.sheppyware.net/software-mac/sweet16/)
-* [GSPort](http://kegs.sourceforge.net/)
+* [Sweet16](http://www.sheppyware.net/software-mac/sweet16/) (MacOS)
+* [GSPort](https://github.com/david-schmidt/gsport)
+* [Bernie II the Rescue](https://macintoshgarden.org/apps/bernie-ii-the-rescue) (MacOS)
+* [VirtualApple](http://www.virtualapple.org/) (Browser-Based)
 
 ## Development
 * https://apple2.gs/
@@ -29,7 +31,7 @@ My collection of information and such for the Apple IIGS.
 ## Hardware
 * [A2Retro](http://a2retrosystems.com/)
 * [Big Mess o' Wires](https://www.bigmessowires.com/shop/)
+* [Apple 3.5" Drive - Clean & Fix](https://www.youtube.com/watch?v=0pGhwtyFG2I&feature=emb_logo)
 
 ## Misc
-* [NuLib (SHK/BXY for Linux)](http://nulib.com/)
-* [Apple 3.5" Drive Clean & Repair Video](https://www.youtube.com/watch?v=0pGhwtyFG2I&feature=emb_logo)
+* [NuLib (SHK/BXY for Linux)](http://nulib.com/) | [Github](https://github.com/fadden/nulib2)
